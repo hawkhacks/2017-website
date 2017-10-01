@@ -3,6 +3,7 @@ body {
    background-size: cover;
    font-smoothing: antialiased;
    text-align: center;
+   font-size: 100%;
    font-family:  Futura, CenturyGothic, "Century Gothic", Arial, Helvetica, sans-serif;
    color: white;
    -webkit-font-smoothing: antialiased;
